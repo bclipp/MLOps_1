@@ -1,8 +1,17 @@
 ## MLops
 
-Tbis project has a group of companion articles and a gitlab repo for CI/CD. I kept the main repo in 
-github to preserve my Github profile. I normally would prefer single purpose repositories not using this repo
-for multiple purposes.
+THis is the main file for the project, there are several child repos related to the project.
+
+MLOps_dags
+MLOps_search_python
+MLOps_search_scala
+MLOps_model_python
+MLOps_model_scala
+MLOps_search_scala
+MLOps_search_python
+
+
+Tbis project has a group of companion articles and a gitlab repo for CI/CD. 
 
 
 1.
@@ -11,5 +20,6 @@ for multiple purposes.
 4.
 
 Gitlab: https://gitlab.com/brian-lipp/mlops
+
 
 
