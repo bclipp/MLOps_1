@@ -2,7 +2,7 @@
 
 THis is the main file for the project, there are several child repos related to the project.
 
-* MLOps_dags
+* [MLOps_dags](https://github.com/bclipp/MLOps_dags)
 * MLOps_search_python
 * MLOps_search_scala
 * MLOps_model_python
