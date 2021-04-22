@@ -7,8 +7,8 @@ THis is the main file for the project, there are several child repos related to 
 * [MLOps_search_scala](https://github.com/bclipp/MLOps_search_scala)
 * [MLOps_model_python](https://github.com/bclipp/MLOps_model_python)
 * [MLOps_model_scala](https://github.com/bclipp/MLOps_model_scala)
-* [MLOps_search_scala](https://github.com/bclipp/MLOps_search_scala)
-* [MLOps_search_python](https://github.com/bclipp/MLOps_search_python)
+* [MLOps_preprocessing_python](https://github.com/bclipp/MLOps_preprocessing_python)
+* [MLOps_preprocessing_scala](https://github.com/bclipp/MLOps_preprocessing_scala)
 
 
 Tbis project has a group of companion articles and a gitlab repo for CI/CD. 
