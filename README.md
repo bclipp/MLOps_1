@@ -1,4 +1,4 @@
-## MLops
+## MLOps
 
 THis is the main file for the project, there are several child repos related to the project.
 
